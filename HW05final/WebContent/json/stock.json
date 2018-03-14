@@ -1,0 +1,81 @@
+[
+    {
+    "Company":"Amazon",
+    "tickerSymbol":"AMZN",
+    "Webpage":"http://www.nasdaq.com/symbol/amzn",
+    "Picture":"http://www.nasdaq.com/logos/AMZN.GIF",
+    "Description":"Amazon.com, Inc. was incorporated in 1994 in the state of Washington and reincorporated in 1996 in the state of Delaware. Our principal corporate offices are located in Seattle, Washington. We completed our initial public offering in May 1997 and our common stock is listed on the NASDAQ Global Select Market under the symbol AMZN. General Amazon.com opened its virtual doors on the World Wide Web in July 1995. We seek to be Earth's most customer-centric company."
+  },
+  {
+    "Company":"Google",
+    "tickerSymbol":"GOOG",
+    "Webpage":"http://www.nasdaq.com/symbol/goog",
+    "Picture":"https://upload.wikimedia.org/wikipedia/en/5/53/The_first_Google_Doodle.png",
+    "Description":"Google is an American multinational leader in technology that aims to organize the world's information and make it universally accessible and useful. Founded by Larry Page and Sergey Brin, who were attending Stanford University at the time, Google was first incorporated as a privately held company on September 4, 1998."
+  },
+
+  {
+    "Company":"Microsoft",
+    "tickerSymbol":"MSFT",
+    "Webpage":"http://www.nasdaq.com/symbol/msft",
+    "Picture":"http://www.nasdaq.com/logos/MSFT.GIF",
+    "Description":"Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. Our strategy is to build best-in-class platforms and productivity services for a mobile-first, cloud-first world."
+  },
+  {
+    "Company":"Apple",
+    "tickerSymbol":"AAPL",
+    "Webpage":"http://www.nasdaq.com/symbol/aapl",
+    "Picture":"http://www.nasdaq.com/logos/AAPL.GIF",
+    "Description":"Apple's current place in the global marketplace is a far cry from its humble beginnings, with Steve Jobs, Steve Wozniak and Ronald Wayne selling hand-made personal computer kits in the late '70s. The company continued to focus on personal computers for the following decades, but in recent years that focus has shifted more to consumer electronics such as the iPhone, iPad and iPod."
+  },
+  {
+    "Company":"Facebook",
+    "tickerSymbol":"FB",
+    "Webpage":"http://www.nasdaq.com/symbol/fb",
+    "Picture":"http://www.nasdaq.com/logos/FB.gif",
+    "Description":"Our mission is to give people the power to share and make the world more open and connected. Our top priority is to build useful and engaging products that enable people to connect and share through mobile devices and personal computers. We also help people discover and learn about what is going on in the world around them, enable people to share their opinions, ideas, photos and videos, and other activities with audiences ranging from their closest friends to the public at large, and stay connected everywhere by accessing our products, including: * Facebook. "
+  },
+  {
+    "Company":"intel",
+    "tickerSymbol":"INTC",
+    "Webpage":"http://www.nasdaq.com/symbol/intc",
+    "Picture":"http://www.nasdaq.com/logos/INTC.gif",
+    "Description":"Intel is the world's leading manufacturer and developer of computer microprocessors and chipsets, founded in California's Silicon Valley in 1968. The name Intel derives from the phrase Integrated Electronics."
+  },
+  {
+    "Company":"CISCO",
+    "tickerSymbol":"CSCO",
+    "Webpage":"http://www.nasdaq.com/symbol/csco",
+    "Picture":"http://www.nasdaq.com/logos/CSCO.GIF",
+    "Description":"Cisco is the world's largest supplier of networking equipment and systems, playing an important role in a wide variety of computing fields. The company was founded in 1984 in San Francisco, California, by a pair of Stanford University computer engineers - Len Bosack and Sandy Lerner. The two named the company after a common nickname for San Francisco."
+  },
+  {
+    "Company":"IBM",
+    "tickerSymbol":"IBM",
+    "Webpage":"http://www.nasdaq.com/symbol/ibm",
+    "Picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/400px-IBM_logo.svg.png",
+    "Description":"International Business Machines Corporation (IBM or the company) was incorporated in the State of New York on June 16, 1911, as the Computing-Tabulating-Recording Co. (C-T-R), a consolidation of the Computing Scale Co. of America, the Tabulating Machine Co. and The International Time Recording Co. of New York. Since that time, IBM has focused on the intersection of business insight and technological innovation, and its operations and aims have been international in nature."
+  },
+  {
+    "Company":"Oracle",
+    "tickerSymbol":"ORCL",
+    "Webpage":"http://www.nasdaq.com/symbol/orcl",
+    "Picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1326px-Oracle_logo.svg.png",
+    "Description":"Oracle Corporation provides products and services that address all aspects of corporate information technology (IT) environments--application, platform and infrastructure. Our Oracle Cloud offerings provide a comprehensive and fully integrated stack of application, platform, compute and storage services in all three primary layers of the cloud: Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS). Our on-premise offerings include Oracle database and middleware software, application software, hardware (Oracle Engineered Systems, servers, storage, networking and industry-specific products), and related support and services."
+  },
+  {
+    "Company":"Yahoo! Inc.",
+    "tickerSymbol":"YHOO",
+    "Webpage":"http://www.nasdaq.com/symbol/yhoo",
+    "Picture":"http://www.nasdaq.com/logos/YHOO.GIF",
+    "Description":"Yahoo! Inc., together with its consolidated subsidiaries, is a guide to digital information discovery, focused on informing, connecting, and entertaining our users through our search, communications, and digital content products. By creating highly personalized experiences, we help users discover the information that matters most to them around the world--on mobile or desktop. We create value for advertisers with a streamlined, simple advertising technology stack that leverages Yahoo's data, content, and technology to connect advertisers with their target audiences. "
+  },
+  {
+    "Company":"Hewlett-Packard",
+    "tickerSymbol":"HPE",
+    "Webpage":"http://www.nasdaq.com/symbol/hpe",
+    "Picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/200px-HP_logo_2012.svg.png",
+    "Description":"We are an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make information technology more efficient, more productive and more secure. Our legacy dates back to a partnership founded in 1939 by William R. Hewlett and David Packard, and we strive every day to uphold and enhance that legacy through our dedication to providing innovative technological solutions to our customers."
+  }
+]
+
